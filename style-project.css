@@ -1,0 +1,23 @@
+.section-Project{
+ background: #e0d8d8;
+
+}
+
+.div-parents-pro{
+
+    display: flex;
+}
+
+.div-pro-workexp{
+    width:600px;
+    height:200px;
+   border-radius:10px;
+    margin-bottom: 20px;
+    box-shadow: 1px 1px 11px 1px #b8b1b1;
+}
+
+.div-pro-right{
+    margin-right: 10px;
+    margin-top:20px; 
+    padding-left:200px;
+}
