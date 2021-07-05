@@ -1,0 +1,39 @@
+.div-parents-skill{
+
+padding-left:100px;
+   
+}
+
+.div-skill-1{
+
+    display: flex;
+   
+
+
+}
+.div-skill-2{
+    display: flex;
+    
+
+}
+
+.img-skill-icon{
+
+    padding:50px 100px 5px 100px;
+    margin:20px;
+}
+
+.section-skill h1{
+    padding-left:530px;
+}
+
+.img-h5{
+
+    text-align: center;
+
+}
+
+.section-skill{
+
+    margin-bottom:100px ;
+}

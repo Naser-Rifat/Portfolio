@@ -1,0 +1,99 @@
+
+
+#div-bio-icon{
+
+    display: flex;
+    padding-left:80px;
+
+
+}
+.div-bio-icon-1{
+    padding-left:20px;
+}
+
+.section-biography{
+    margin-bottom:50px;
+    background-color: #f3f3f3;  
+
+}
+.div-bio-imgicon{
+
+    margin-bottom: 20px;
+
+
+}
+
+
+.div-parents-biography{
+
+    display: flex;
+    margin-bottom:20px;
+}
+
+#div-biography{
+
+    width:60%;
+    margin:20px;
+    padding-left:100px;
+    text-align:justify;
+    
+}
+#div-bio-img img{
+    border-radius:50%;
+    margin:50px 0px 0px 50px;
+}
+
+#div-bio-img h3{
+
+    font-size:30px;
+    text-align: center;
+    padding-left:30px;
+    margin-bottom:5px;
+
+}
+
+#div-bio-img h4{
+    text-align: center;
+    padding-left:20px;
+    color: rgb(75, 71, 66);
+    margin-top:0px;
+}
+h1{
+    font-size:45px;
+    font-weight:700;
+}
+
+
+.fa {
+    padding:10px;
+    font-size:30px;
+    width:30px;
+    text-align: center;
+    text-decoration: none;
+    margin:0px;
+    border-radius:20px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+
+  .fa-github{
+      background:white;
+      color:black;
+  }
