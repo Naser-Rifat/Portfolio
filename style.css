@@ -1,0 +1,16 @@
+.div-half img{
+
+    border-radius:50%;
+}
+
+.div-half{
+
+    width:50%;
+    margin:2%;
+}
+
+.top-section{
+
+    display: flex;
+
+}
